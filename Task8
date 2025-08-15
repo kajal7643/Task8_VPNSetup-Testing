@@ -1,0 +1,45 @@
+# VPN Setup & Privacy Task – Windscribe
+
+## Objective
+To understand how VPNs protect privacy and secure communication through encryption and tunneling protocols and to gain hands-on experience in VPN usage.
+
+**Tool Used:** Windscribe (Free Tier)  
+**Location Connected:** Victoria (Hong Kong)  
+**Original IP Location:** Karnataka, India  
+**VPN IP Location:** Hong Kong
+
+## Steps Performed
+1. I chose **Windscribe** as a trusted free VPN service and created an account.
+2. I downloaded and installed the **Windscribe desktop client** on my system.
+3. I logged in and connected to a VPN server (**Best Location – Victoria, Hong Kong**).
+4. I verified that my IP address changed by visiting **whatismyipaddress.com**:
+   - **Before VPN:** IP – `122.172.86.176` (India)
+   - **After VPN:** IP – `146.70.250.13` (Hong Kong)
+5. I browsed websites successfully to confirm that the traffic was encrypted while the VPN was active.
+6. I disconnected the VPN and confirmed my IP returned to the original, verifying that the VPN connection was successful.
+7. I researched how VPN encryption works and its privacy protection features, including masking IP, encrypting data, and secure tunneling protocols.
+8. I prepared a summary of VPN **benefits** (privacy, security, bypassing geo-restrictions) and **limitations** (reduced speed, not 100% anonymous, some site restrictions).
+
+## VPN Benefits
+- Masks real IP address and location.
+- Encrypts all internet traffic for privacy.
+- Secures browsing on public Wi-Fi networks.
+- Helps bypass geo-restrictions.
+
+## VPN Limitations
+- Cannot guarantee complete anonymity; the VPN provider can still see activity.
+- May reduce internet speed.
+- Some websites block VPN IPs.
+- Free plans may have data caps.
+
+## Key Concepts Learned
+- **VPN (Virtual Private Network)** – A tool that encrypts internet traffic and hides IP addresses.
+- **Encryption** – Secures data from interception.
+- **Tunneling Protocols** – Methods for securely transmitting data, such as WireGuard and OpenVPN.
+- **Privacy Protection** – Using VPNs to safeguard identity and data.
+**I have uploaded all required screenshots**:
+- `before_vpn.png` – Before VPN connection (original IP).
+- `after_vpn.png` – After VPN connection (VPN-assigned IP).
+- `vpn_connected.png` – Windscribe app showing connected status.
+
+
